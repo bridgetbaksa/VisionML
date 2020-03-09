@@ -1,6 +1,6 @@
 # VisionML 🧐
 
-VisionML is an Image Classifier App for iOS that uses Apple's new CoreML 3 framework. The app utilizes InceptionV3, a machine learning model that classifies images and gives a percentage of accuracy. Simply take a picture and the machine learning model will tell you what the image contains!
+VisionML is an Image Recognition App for iOS that uses Apple's new CoreML 3 framework. The app utilizes InceptionV3, a machine learning model that classifies images and gives a percentage of accuracy. Simply take a picture and the machine learning model will tell you what the image contains!
 
 ![](VisionML.gif)
 
